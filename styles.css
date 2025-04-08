@@ -66,6 +66,15 @@ header h1 {
   box-shadow: 0 0 15px #aa2222;
 }
 
+.features2 {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: rgba(40, 0, 0, 0.7);
+  border: 2px solid #660000;
+  box-shadow: 0 0 15px #aa2222;
+}
+
 .features h2 {
   font-size: 2.2rem;
   color: #ff3300;
